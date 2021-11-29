@@ -116,8 +116,11 @@ ul li{
 	top: 30%;
 	left: 50%;
 	transform: translate(-50%,-30%); 
-	width: 70%;
-	height: 50px;
+	width: 90%;
+	height: 40px;
+}
+.bodyl{
+	height: 325px !important;
 }
 	a{
 		text-decoration: none;
@@ -148,18 +151,18 @@ ul li{
 		border: none !important;
 		
 	}
-	.col-md-2{
+	.availproducts .col-md-2{
 		display: inline-block;
 		width: 49%;
-		padding: 0px;
-		margin: 0px;
+		padding: 0px !important;
+		margin: 10px 0px;
 		
 	}
-	.col-md-3{
+	.availservices .col-md-3{
 		display: inline-block;
 		width: 49%;
-		padding: 0px;
-		margin: 0px;
+		padding: 0px !important;
+		margin: 10px 0px;
 
 		
 	}
